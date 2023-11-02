@@ -1,0 +1,14 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+nav a {
+    text-decoration: none;
+    display: inline-block;
+    margin-right: -4px;
+    background-color: black;
+    color: white;
+    padding: 0.5em;
+    border-right: 2px solid white;
+    text-transform: uppercase;
+}
